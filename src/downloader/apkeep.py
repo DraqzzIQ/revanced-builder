@@ -49,7 +49,7 @@ class Apkeep(Downloader):
             "-t",
             token,
             "-o",
-            "split_apk=true",
+            "split_apk=true,locale=de_DE",
             self.config.temp_folder_name,
         ]
         logger.debug(f"Running command: {cmd}")
