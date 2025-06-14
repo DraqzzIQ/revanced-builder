@@ -1,1 +1,335 @@
-{}
+{
+    "TWITTER": {
+        "app_version": "10.86.0",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909711155,
+        "date_patched": "2025-06-14 14:01:51.155491+05:30",
+        "app_dump": {
+            "app_name": "TWITTER",
+            "app_version": "10.86.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 8,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "TWITTER.apk",
+            "download_dl": "https://drive.usercontent.google.com/download?id=1mJzOtipCvA-dzbHcH8JxytWXAnU3lO9o&export=download&authuser=0&confirm=t&uuid=28085532-b46c-4237-9b1a-8b585a46440d&at=ALoNOgka9XSpm2G2uEQP5DR9TvvW%3A1747674211596",
+            "download_source": "",
+            "package_name": "com.twitter.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "DUOLINGO": {
+        "app_version": "5.158.4",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909456169,
+        "date_patched": "2025-06-14 13:57:36.169432+05:30",
+        "app_dump": {
+            "app_name": "DUOLINGO",
+            "app_version": "5.158.4",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "DUOLINGO.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6610874&key=1df7b1e737dd5ab0ed284fb16bd45acd46e684cc&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/",
+            "package_name": "com.duolingo",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "REDDIT": {
+        "app_version": "2024.17.0",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909478559,
+        "date_patched": "2025-06-14 13:57:58.559281+05:30",
+        "app_dump": {
+            "app_name": "REDDIT",
+            "app_version": "2024.17.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "REDDIT.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6131308&key=dfa374df4102ad670d74dd371c2bd99357bf4024&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "SOUNDCLOUD": {
+        "app_version": "2025.05.29.release..304030",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909535036,
+        "date_patched": "2025-06-14 13:58:55.035800+05:30",
+        "app_dump": {
+            "app_name": "SOUNDCLOUD",
+            "app_version": "2025.05.29.release..304030",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 3,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "SOUNDCLOUD.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9580818&key=4440aad0135443a586533054e1eee596f42e4d32",
+            "download_source": "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/",
+            "package_name": "com.soundcloud.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "SPOTIFY": {
+        "app_version": "latest",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909577172,
+        "date_patched": "2025-06-14 13:59:37.172462+05:30",
+        "app_dump": {
+            "app_name": "SPOTIFY",
+            "app_version": "latest",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "com.spotify.music.apk",
+            "download_dl": "apkeep://google-play/com.spotify.music",
+            "download_source": "apkeep",
+            "package_name": "com.spotify.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "TWITCH": {
+        "app_version": "24.8.0..2408006",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909630516,
+        "date_patched": "2025-06-14 14:00:30.516111+05:30",
+        "app_dump": {
+            "app_name": "TWITCH",
+            "app_version": "24.8.0..2408006",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "TWITCH.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9614951&key=2d366992058d6f93effcb0466a25b250cba57dcb",
+            "download_source": "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/",
+            "package_name": "tv.twitch.android.app",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "YOUTUBE": {
+        "app_version": "20.12.46",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909764530,
+        "date_patched": "2025-06-14 14:02:44.530215+05:30",
+        "app_dump": {
+            "app_name": "YOUTUBE",
+            "app_version": "20.12.46",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 56,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "YOUTUBE.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8859989&key=5d68fb9839631a26c11285e530f5843ba780bb40&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "tiktok": {
+        "app_version": "36.5.4",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749909831123,
+        "date_patched": "2025-06-14 14:03:51.122985+05:30",
+        "app_dump": {
+            "app_name": "tiktok",
+            "app_version": "36.5.4",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 9,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "tiktok.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=7102816&key=985db95d6a5517bf48828c2a57dec8d2476b26f9&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/",
+            "package_name": "com.ss.android.ugc.trill",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "YOUTUBE_MUSIC": {
+        "app_version": "8.05.51",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749688305142,
+        "date_patched": "2025-06-12 00:31:45.141806+05:30",
+        "app_dump": {
+            "app_name": "YOUTUBE_MUSIC",
+            "app_version": "8.05.51",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 10,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "YOUTUBE_MUSIC.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8372612&key=46e9ba596319e80802d56cbffa75da2465ff99c2&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    }
+}
