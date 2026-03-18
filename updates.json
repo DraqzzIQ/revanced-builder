@@ -1,1 +1,417 @@
-{}
+{
+    "REDDIT": {
+        "app_version": "2026.11.0..2611071",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773871183998,
+        "date_patched": "2026-03-18 21:59:43.997581+05:30",
+        "app_dump": {
+            "app_name": "REDDIT",
+            "app_version": "2026.11.0..2611071",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/ReVanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "REDDIT.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=12909371&key=13a42e62d09d9dc9a60657e13c2f5068226d569c",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    },
+    "YOUTUBE_MUSIC": {
+        "app_version": "8.40.54",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773871196040,
+        "date_patched": "2026-03-18 21:59:56.039938+05:30",
+        "app_dump": {
+            "app_name": "YOUTUBE_MUSIC",
+            "app_version": "8.40.54",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/ReVanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 19,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "YOUTUBE_MUSIC.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=11091986&key=f4be2a6ebbbb4c9c678352ed3e1b3ceb86197bf0&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    },
+    "TWITTER": {
+        "app_version": "10.60.0",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773871191657,
+        "date_patched": "2026-03-18 21:59:51.657349+05:30",
+        "app_dump": {
+            "app_name": "TWITTER",
+            "app_version": "10.60.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/ReVanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "TWITTER.apk",
+            "download_dl": "https://drive.usercontent.google.com/download?id=1mJzOtipCvA-dzbHcH8JxytWXAnU3lO9o&export=download&authuser=0&confirm=t&uuid=28085532-b46c-4237-9b1a-8b585a46440d&at=ALoNOgka9XSpm2G2uEQP5DR9TvvW%3A1747674211596",
+            "download_source": "",
+            "package_name": "com.twitter.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    },
+    "YOUTUBE": {
+        "app_version": "20.40.45",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773871192611,
+        "date_patched": "2026-03-18 21:59:52.611230+05:30",
+        "app_dump": {
+            "app_name": "YOUTUBE",
+            "app_version": "20.40.45",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/ReVanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 60,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "YOUTUBE.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=11041405&key=0ed04c62dd38b84e3a47da2b4a3c0302ce4f4869&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    },
+    "tiktok": {
+        "app_version": "36.5.4",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773871301772,
+        "date_patched": "2026-03-18 22:01:41.772425+05:30",
+        "app_dump": {
+            "app_name": "tiktok",
+            "app_version": "36.5.4",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 10,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "tiktok.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=7102816&key=6a13f2df85688f8c4d5827845eea510b42da3bc7&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/",
+            "package_name": "com.ss.android.ugc.trill",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    }
+}
